@@ -1,6 +1,6 @@
 {
   "name": "folderfilesreadr",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "reads files from a folder, takes folder and optional file extension, returns array",
   "main": "folderFilesReadr.js",
   "scripts": {
