@@ -1,7 +1,7 @@
 # folderFileReadr
 Reads files by extension from folder, returns array of files
 
-###example
+### example
 
 ```javascript
 //returns all the html files in the current path folder
